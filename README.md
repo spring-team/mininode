@@ -15,3 +15,5 @@ Note that there are two mandatory endpoints for our deployment to kube
 Both of these endpoints are defined in server.js along with a / endpoint for the hello world
 
 You're good enough, you're smart enough, and doggone it, people like you.
+
+You're good enough, you're smart enough, and doggone it, people like you.
